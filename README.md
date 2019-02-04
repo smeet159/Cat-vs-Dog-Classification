@@ -14,3 +14,4 @@ The code is divide into 5 parts.
 
 Libraries used: 1.openCV 2.tflearn 3.numpy 
  
+The train and test dataset used here is at (https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
